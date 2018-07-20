@@ -1,0 +1,31 @@
+label{
+    width:200px;
+    float:left;
+}
+
+.star{
+    color:red;
+}
+
+label.error{
+    float:none;
+    color:red;
+    padding-left:20px;
+}
+
+input.inpreg{
+    width:300px;
+    height:20px;
+}
+
+select.inpreg{
+    width:300px;
+    height:20px;
+}
+
+#btnsub{
+    width:100px;
+    height:20px;
+    background-color: blue;
+    color: aliceblue;
+}
